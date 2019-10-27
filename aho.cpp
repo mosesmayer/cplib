@@ -1,16 +1,4 @@
-#include<stdio.h>
-#include<iostream>
-#include<queue>
-#include<map>
-#include<set>
-#include<vector>
-#include<utility>
-#include<stack>
-#include<algorithm>
-#include<string>
-#include<string.h>
-#include<assert.h>
-#include<unordered_map>
+#include<bits/stdc++.h>
 #define fi first
 #define se second
 #define pb push_back
